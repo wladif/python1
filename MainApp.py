@@ -4,6 +4,9 @@ print("Buna dimineata")
 
 print("Buna ziua")
 
+# some comment
+
+
 print("Ziua buna")
 
 print("La revedere")
